@@ -82,6 +82,12 @@
       ]
     },
     {
+      "group": "Session ID",
+      "pages":[
+        "api-reference/endpoints/create-session-id"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
