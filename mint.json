@@ -76,6 +76,12 @@
       ]
     },
     {
+      "group": "Getting Started",
+      "pages":[
+        "api-reference/gettingstarted"
+      ]
+    },
+    {
       "group": "Endpoint Examples",
       "pages": [
         "api-reference/endpoint/get",
