@@ -77,7 +77,9 @@
     },
     {
       "group":"Overview",
-      "pages":"api-reference/afirst.mdx"
+      "pages":[
+        "api-reference/overview.mdx"
+      ]
     },
     {
       "group": "Getting Started",
@@ -88,7 +90,7 @@
     {
       "group": "Authentication",
       "pages":[
-       "api-reference/cthird.mdx"
+       "api-reference/authentication.mdx"
       ]
     },
     {
