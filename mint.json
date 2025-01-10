@@ -100,6 +100,12 @@
       ]
     },
     {
+      "group": "Rate Limit",
+      "pages": [
+        "api-reference/ratelimit"
+      ]
+    },
+    {
       "group": "Session ID",
       "pages":[
         "api-reference/endpoints/create-session-id"
