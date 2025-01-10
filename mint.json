@@ -94,6 +94,12 @@
       ]
     },
     {
+      "group":"Error Codes",
+      "pages":[
+        "api-reference/errorcodes"
+      ]
+    },
+    {
       "group": "Session ID",
       "pages":[
         "api-reference/endpoints/create-session-id"
