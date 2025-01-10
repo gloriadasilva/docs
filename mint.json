@@ -115,11 +115,11 @@
     },
     {
       "group": "Release Dates",
-      "pages": "api-reference/releasedates"
+      "pages": ["api-reference/releasedates"]
     },
     {
       "group": "Glossary",
-      "pages": "api-reference/glossary"
+      "pages":[ "api-reference/glossary"]
     }
   ],
   "footerSocials": {
