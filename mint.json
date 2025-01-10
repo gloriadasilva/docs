@@ -112,6 +112,14 @@
         "api-reference/endpoint/create",
         "api-reference/endpoint/delete"
       ]
+    },
+    {
+      "group": "Release Dates",
+      "pages": "api-reference/releasedates"
+    },
+    {
+      "group": "Glossary",
+      "pages": "api-reference/glossary"
     }
   ],
   "footerSocials": {
