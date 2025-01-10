@@ -106,6 +106,13 @@
       ]
     },
     {
+      "group": "Certfications",
+      "pages": [
+        "api-reference/movie-certfications", "api-reference/tv-certfications"
+      ]
+
+    },
+    {
       "group": "Session ID",
       "pages":[
         "api-reference/endpoints/create-session-id"
