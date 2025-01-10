@@ -108,7 +108,7 @@
     {
       "group": "Certfications",
       "pages": [
-        "api-reference/movie-certfications", "api-reference/tv-certfications"
+        "api-reference/movie-certfications"
       ]
 
     },
