@@ -1,0 +1,13 @@
+---
+title: "How to create SessionId"
+---
+
+A `session Id` is a unique identifier that allows you to authenticate TMDB users within your application. TMBD users can perform activities like movie rating, creating watchlists, and editing custom lists on your application while staying in sync with their account on TMDB.
+
+Creating a session ID requires three steps, which include:
+
+Step 1: Create a request token. To create your request token, make a request to this [endpoint](https://go.postman.co/workspace/5a95b8a8-615c-46b0-8455-46329b7f84fb/documentation/35016516-547dcbf5-5123-447f-8e80-362becb3a4a0?entity=request-975da137-e9d3-4898-90a9-fb7e25638217).
+
+Step 2: Authenticate your user with the request token. To do this, check this [section](https://go.postman.co/workspace/5a95b8a8-615c-46b0-8455-46329b7f84fb/documentation/35016516-547dcbf5-5123-447f-8e80-362becb3a4a0?entity=folder-7f77c102-adbb-4a58-a562-ba9ac5ffc511).
+
+Step 3: Create a session ID. To do this, make a request to this [endpoint ](https://go.postman.co/workspace/5a95b8a8-615c-46b0-8455-46329b7f84fb/documentation/35016516-547dcbf5-5123-447f-8e80-362becb3a4a0?entity=request-f8768aa4-38d4-4bd3-b4dc-3d6c2e7a6da4)to get your `session_id`. This is the session that can now be used to write user data. You should treat this key like a password and keep it secret.
