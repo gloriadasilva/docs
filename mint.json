@@ -109,6 +109,7 @@
       "group": "Session ID",
       "pages":[
         "api-reference/endpoints/create-request-token.mdx",
+        "api-reference/authenticateRequestToken",
         "api-reference/endpoints/create-session-id"
       ]
     },
