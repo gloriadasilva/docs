@@ -106,24 +106,9 @@
       ]
     },
     {
-      "group": "Certfications",
-      "pages": [
-        "api-reference/movie-certfications"
-      ]
-
-    },
-    {
       "group": "Session ID",
       "pages":[
         "api-reference/endpoints/create-session-id"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
       ]
     },
     {
