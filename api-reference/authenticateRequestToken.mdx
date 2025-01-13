@@ -1,0 +1,16 @@
+---
+title: "Authenticate Request Token"
+---
+
+Once you have generated a request token, redirect your user to the following URL:
+
+Enter your request token to complete the authentication.
+
+
+
+```http
+https://www.themoviedb.org/authenticate/{YOUR_REQUEST_TOKEN}
+
+```
+
+Once the user has approved your request token, they will be redirected to the URL you specified in the `redirect_to` parameter or to the `/authenticate/allow` path on TMDB.
